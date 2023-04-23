@@ -20,7 +20,11 @@ body {
     background-image: linear-gradient(to bottom, #E3DAC9, #5e81ff, #E3DAC9);
   }
   
-#site:hover{
+#site{
+    color:#8308ee;
+}
+
+.business:hover{
     color:#8308ee;
 }
 
@@ -68,6 +72,13 @@ dl dd{
 }
 
 .weather{
+    display:block;
+    text-align:center; 
+    padding-top: 10px;
+    font-size: 20px;
+}
+
+.business{
     display:block;
     text-align:center; 
     padding-top: 10px;
