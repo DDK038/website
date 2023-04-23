@@ -20,7 +20,7 @@ body {
     background-image: linear-gradient(to bottom, #E3DAC9, #5e81ff, #E3DAC9);
   }
   
-#site{
+#site:hover{
     color:#8308ee;
 }
 
