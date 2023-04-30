@@ -28,6 +28,10 @@ body {
     color:#8308ee;
 }
 
+.story:hover{
+    color:#8308ee;
+}
+
 img{
     width:100px;
     height:100px;
@@ -79,6 +83,13 @@ dl dd{
 }
 
 .business{
+    display:block;
+    text-align:center; 
+    padding-top: 10px;
+    font-size: 20px;
+}
+
+.story{
     display:block;
     text-align:center; 
     padding-top: 10px;
