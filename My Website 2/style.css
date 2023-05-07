@@ -84,3 +84,14 @@ img{
 .image{
     text-align: center;
   }
+
+  .json{
+    display:block;
+    text-align:center; 
+    padding-top: 10px;
+    font-size: 20px;
+}
+
+.json:hover{
+    color:#8308ee;
+}
