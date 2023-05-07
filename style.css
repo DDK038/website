@@ -32,6 +32,10 @@ body {
     color:#8308ee;
 }
 
+.json:hover{
+    color:#8308ee;
+}
+
 img{
     width:100px;
     height:100px;
@@ -90,6 +94,13 @@ dl dd{
 }
 
 .story{
+    display:block;
+    text-align:center; 
+    padding-top: 10px;
+    font-size: 20px;
+}
+
+.json{
     display:block;
     text-align:center; 
     padding-top: 10px;
